@@ -94,22 +94,21 @@ Here's How:
 
 </div>
 
-Use the `BLANK_README.md` to get started.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+We're Built with -
 
-- [![Next][next.js]][next-url]
-- [![React][react.js]][react-url]
-- [![Vue][vue.js]][vue-url]
-- [![Angular][angular.io]][angular-url]
-- [![Svelte][svelte.dev]][svelte-url]
-- [![Laravel][laravel.com]][laravel-url]
-- [![Bootstrap][bootstrap.com]][bootstrap-url]
-- [![JQuery][jquery.com]][jquery-url]
+- [![Next]
+- [![Graph]
+- [![Hardhat]
+- [![Push]
+- [![ENS]
+- [![Polygon]
+- [![Quicknode]
+- [![IPFS]
+- [![Valist]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -117,8 +116,11 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+There are three parts to our project, you have to install -
+
+- Hardhat
+- The Graph
+- NextJS
 
 ### Prerequisites
 
@@ -149,27 +151,17 @@ _Below is an example of how you can instruct your audience on installing and set
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- USAGE EXAMPLES -->
-
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ROADMAP -->
+## Features
 
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-  - [ ] Chinese
-  - [ ] Spanish
+- [x] Freelance platform
+- [x] Clients and freelancers implemented
+- [x] NFT being minted
+- [x] ERC20 implemented
+- [x] Client can accept and reject
+- [x] Chat between freelancer and client
+- [x] NFT resale on rejection
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
@@ -209,21 +201,6 @@ Your Name - [@your_twitter](https://twitter.com/AkhilAiri) - akhil@armur.ai
 Project Link: [https://github.com/Armur-Ai/ETH-India-Submission.git](https://github.com/Armur-Ai/ETH-India-Submission.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGMENTS -->
-
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-- [Choose an Open Source License](https://choosealicense.com)
-- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-- [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-- [Malven's Grid Cheatsheet](https://grid.malven.co/)
-- [Img Shields](https://shields.io)
-- [GitHub Pages](https://pages.github.com)
-- [Font Awesome](https://fontawesome.com)
-- [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
