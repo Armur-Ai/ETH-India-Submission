@@ -100,15 +100,15 @@ Here's How:
 
 We're Built with -
 
-- ![Next]
-- ![Graph]
-- ![Hardhat]
-- ![Push]
-- ![ENS]
-- ![Polygon]
-- ![Quicknode]
-- ![IPFS]
-- ![Valist]
+- NextJS
+- The Graph
+- Hardhat
+- Push
+- ENS
+- Polygon
+- Quicknode
+- IPFS
+- Valist
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
