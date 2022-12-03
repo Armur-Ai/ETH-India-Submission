@@ -87,7 +87,7 @@ Here's How:
 <a href="https://www.canva.com/design/DAFTrjl2ceU/cREjpA9_Mug61RajxKud-Q/view"><img width="90%" src="https://res.cloudinary.com/dsqufr1x5/image/upload/v1670063724/5_rvc0nj.jpg" alt="Stop using CSS and start using SASS!"></a>
 <br />
 <br />
-<a href="https://www.canva.com/design/DAFTrjl2ceU/cREjpA9_Mug61RajxKud-Q/view"><img width="90%" src="https://res.cloudinary.com/dsqufr1x5/image/upload/v1670063724/5_rvc0nj.jpg" alt="Stop using CSS and start using SASS!"></a>
+<a href="https://www.canva.com/design/DAFTrjl2ceU/cREjpA9_Mug61RajxKud-Q/view"><img width="90%" src="https://res.cloudinary.com/dsqufr1x5/image/upload/v1670063724/6_i47rq8.jpg" alt="Stop using CSS and start using SASS!"></a>
 <br />
 <br />
 <a href="https://www.canva.com/design/DAFTrjl2ceU/cREjpA9_Mug61RajxKud-Q/view"><img width="90%" src="https://res.cloudinary.com/dsqufr1x5/image/upload/v1670063724/7_mnpzmn.jpg" alt="Stop using CSS and start using SASS!"></a>
