@@ -70,15 +70,27 @@ Here's How:
 - Clients select and prefer freelancers from a particular country and of a particular ethnic background, resulting in a bad experience for the freelancers
 - Freelancers end up buying credits that end up becoming useless once the client rejects them.
 
-## Latest Blog Posts
+## Concept Slides Below
 
-<a href="https://achhoubiplus.hashnode.dev/js-notes-2" target="_blank"><img width="90%" src="https://res.cloudinary.com/dsqufr1x5/image/upload/v1670063724/1_njzba6.jpg" alt="Advanced JavaScript Course Notes part 2"></a>
+<a href="https://www.canva.com/design/DAFTrjl2ceU/cREjpA9_Mug61RajxKud-Q/view" target="_blank"><img width="90%" src="https://res.cloudinary.com/dsqufr1x5/image/upload/v1670063724/1_njzba6.jpg" alt="Advanced JavaScript Course Notes part 2"></a>
 <br />
 <br />
-<a href="https://achhoubiplus.hashnode.dev/js-notes-1" target="_blank"><img width="90%" src="https://achhoubiplus.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1650212088986%2FSouwgiSjK.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="Advanced JavaScript Course Notes ppart 1"></a>
+<a href="https://www.canva.com/design/DAFTrjl2ceU/cREjpA9_Mug61RajxKud-Q/view" target="_blank"><img width="90%" src="https://res.cloudinary.com/dsqufr1x5/image/upload/v1670063724/2_u9xoop.jpg" alt="Advanced JavaScript Course Notes ppart 1"></a>
 <br />
 <br />
-<a href="https://achhoubiplus.hashnode.dev/sass" target="_blank"><img width="90%" src="https://achhoubiplus.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1650148500660%2FMxfhBewFy.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="Stop using CSS and start using SASS!"></a>
+<a href="https://www.canva.com/design/DAFTrjl2ceU/cREjpA9_Mug61RajxKud-Q/view"><img width="90%" src="https://res.cloudinary.com/dsqufr1x5/image/upload/v1670063724/3_bl7ub6.jpg" alt="Stop using CSS and start using SASS!"></a>
+<br />
+<br />
+<a href="https://www.canva.com/design/DAFTrjl2ceU/cREjpA9_Mug61RajxKud-Q/view"><img width="90%" src="https://res.cloudinary.com/dsqufr1x5/image/upload/v1670063724/4_b8zkl9.jpg" alt="Stop using CSS and start using SASS!"></a>
+<br />
+<br />
+<a href="https://www.canva.com/design/DAFTrjl2ceU/cREjpA9_Mug61RajxKud-Q/view"><img width="90%" src="https://res.cloudinary.com/dsqufr1x5/image/upload/v1670063724/5_rvc0nj.jpg" alt="Stop using CSS and start using SASS!"></a>
+<br />
+<br />
+<a href="https://www.canva.com/design/DAFTrjl2ceU/cREjpA9_Mug61RajxKud-Q/view"><img width="90%" src="https://res.cloudinary.com/dsqufr1x5/image/upload/v1670063724/5_rvc0nj.jpg" alt="Stop using CSS and start using SASS!"></a>
+<br />
+<br />
+<a href="https://www.canva.com/design/DAFTrjl2ceU/cREjpA9_Mug61RajxKud-Q/view"><img width="90%" src="https://res.cloudinary.com/dsqufr1x5/image/upload/v1670063724/7_mnpzmn.jpg" alt="Stop using CSS and start using SASS!"></a>
 
 </div>
 
