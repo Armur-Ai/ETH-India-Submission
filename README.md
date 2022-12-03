@@ -62,15 +62,25 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Augmnt actually solves most of the problems that are currently plaguing freelance platforms.
 
-Here's why:
+Here's How:
 
-- Your time should be focused on creating something amazing. A project that solves a problem and helps others
-- You shouldn't be doing the same tasks over and over like creating a README from scratch
-- You should implement DRY principles to the rest of your life :smile:
+- Too many freelancers try and get in touch with few clients, ending up spamming the clients, this leads to bad user experience for the client.
+- Clients select and prefer freelancers from a particular country and of a particular ethnic background, resulting in a bad experience for the freelancers
+- Freelancers end up buying credits that end up becoming useless once the client rejects them.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+## Latest Blog Posts
+
+<a href="https://achhoubiplus.hashnode.dev/js-notes-2" target="_blank"><img width="90%" src="https://achhoubiplus.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1650256399208%2FYmEEqvK4x.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="Advanced JavaScript Course Notes part 2"></a>
+<br />
+<br />
+<a href="https://achhoubiplus.hashnode.dev/js-notes-1" target="_blank"><img width="90%" src="https://achhoubiplus.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1650212088986%2FSouwgiSjK.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="Advanced JavaScript Course Notes ppart 1"></a>
+<br />
+<br />
+<a href="https://achhoubiplus.hashnode.dev/sass" target="_blank"><img width="90%" src="https://achhoubiplus.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1650148500660%2FMxfhBewFy.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="Stop using CSS and start using SASS!"></a>
+
+</div>
 
 Use the `BLANK_README.md` to get started.
 
@@ -182,9 +192,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@your_twitter](https://twitter.com/AkhilAiri) - akhil@armur.ai
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/Armur-Ai/ETH-India-Submission.git](https://github.com/Armur-Ai/ETH-India-Submission.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
