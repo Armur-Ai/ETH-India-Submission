@@ -1,0 +1,62 @@
+.nftList{
+    border-left: 1 solid white;
+    flex: 1 0 21%;
+    padding-top: 5%;
+}
+
+/* CSS */
+.bidbtn {
+  appearance: button;
+  backface-visibility: hidden;
+  background-color: #EE4645;
+  border-radius: 6px;
+  border-width: 0;
+  color: #fff;
+  cursor: pointer;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 100%;
+  height: 40px;
+  margin: 12px 0 0;
+  padding: 0 25px;
+  text-align: center;
+  width: 100%;
+}
+
+.bidbtn:disabled {
+  cursor: default;
+}
+
+.bidbtn:focus {
+  box-shadow: rgba(50, 50, 93, .1) 0 0 0 1px inset, rgba(50, 50, 93, .2) 0 6px 15px 0, rgba(0, 0, 0, .1) 0 2px 2px 0, rgba(50, 151, 211, .3) 0 0 0 4px;
+}
+.mainhead{
+  font-size: 40px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.mainheads{
+  color:#2BEBC8;
+  font-size: 40px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.sidemenu{
+  border-bottom: 1px solid black;
+  width:100%;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.sidehead{
+  font-size: 30px;
+  color:white;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.projectlist{
+  font-size: 20px;
+  color:white;
+  background-color: #171717;
+  justify-content: space-between;
+  border-radius: 15px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.nftlist{
+  padding: 15px;
+  border-left: 1 solid white;
+}
